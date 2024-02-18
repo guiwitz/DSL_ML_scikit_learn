@@ -1,0 +1,5 @@
+title: 'DSL ML course: scikit-learn'
+author: Guillaume Witz
+#logo: logo.png
+execute:
+  execute_notebooks: 'off'

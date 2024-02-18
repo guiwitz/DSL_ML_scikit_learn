@@ -1,0 +1,9 @@
+format: jb-book
+root: README.md
+chapters:
+- file: notebooks/01-Linear_regression
+- file: notebooks/02-Multiple_regression
+- file: notebooks/03-Logistic_regression
+- file: notebooks/04-Classification
+- file: notebooks/05-Clustering
+- file: notebooks/06-Decision_trees

@@ -1,0 +1,10 @@
+name: dslsklearn
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - seaborn

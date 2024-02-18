@@ -1,4 +1,5 @@
 # Data licenses
 
+- The full_numpy_bitmap_violin.npy file comes from the Quick, Draw! Dataset (https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap) and is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
 - The Laenggasse.csv and Laenggasse_year.csv data come from the Smart Urban Heat Map project for Bern, Switzerland (https://opendata.swiss/de/dataset/temperatur-und-relative-feuchtigkeit-fur-stadt-und-region-bern/resource/f2e05618-1973-4da4-b484-aee38734d7ca) and are covered by a [Creative Commons Attribution License (CC-BY)](https://creativecommons.org/licenses/by/4.0/) license
 - The centripetal.csv, coli.csv, Displacement1.csv, Displacement2.csv, Displacement3.csv, movement.csv are licensed by Guillaume Witz under a [Creative Commons Attribution License (CC-BY)](https://creativecommons.org/licenses/by/4.0/) license

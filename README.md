@@ -1,2 +1,3 @@
-# DSL_ML_scikit_learn
-Introduction to Machine Learning with scikit-learn
+# Data Science Lab Machine Learning with scikit-learn course
+
+Introduction to Machine Learning with scikit-learn.

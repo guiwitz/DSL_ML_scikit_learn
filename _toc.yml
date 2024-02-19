@@ -7,3 +7,4 @@ chapters:
 - file: notebooks/04-Classification
 - file: notebooks/05-Clustering
 - file: notebooks/06-Decision_trees
+- file: notebooks/07-Dim_reduction
